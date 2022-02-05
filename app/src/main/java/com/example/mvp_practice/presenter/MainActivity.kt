@@ -1,7 +1,8 @@
-package com.example.mvp_practice
+package com.example.mvp_practice.presenter
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.mvp_practice.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
